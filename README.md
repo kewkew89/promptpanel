@@ -16,7 +16,7 @@ prompts stay on your machine.
 
 ## Editions
 
-- **Lite (free)** - Full prompt library, 3 hotkey slots, English/Swedish UI,
+- **Lite (free)** - Full prompt library, 3 hotkey slots, English UI,
   screenshot snip. A single AutoHotkey-based executable, no installer.
 - **Pro ($19 one-time)** - 9 hotkey slots, screenshot annotation, usage
   analytics, backups, prompt templates, and automatic updates. Launch price is
